@@ -16,7 +16,7 @@ capture ciphertexts on the wire, apply **frequency analysis (Al-Kindi method)**,
 - `psycare_lab/`
   - `server/` → server executable
   - `client_gui` → client GUI executable
-- `ASSIGNMENT.md` → full assignment specification, tasks, rubric, deliverables
+- `Readme.md` → this file
 
 ## 🚀 Quick Start
 
