@@ -25,4 +25,4 @@ capture ciphertexts on the wire, apply **frequency analysis (Al-Kindi method)**,
    git clone https://github.com/maadilrehman/PsycoSupport.git
    cd PsycoSupport/psycare_lab
 
-Enjoy the assignment, think like a cryptanalyst, be ethical, and have fun!
+Enjoy learning InfoSec, think like a cryptanalyst, be ethical, and have fun!
