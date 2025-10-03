@@ -17,7 +17,6 @@ capture ciphertexts on the wire, apply **frequency analysis (Al-Kindi method)**,
   - `server/` → server executable
   - `client_gui` → client GUI executable
 - `ASSIGNMENT.md` → full assignment specification, tasks, rubric, deliverables
-- *(optional)* starter code or notebooks for analysis
 
 ## 🚀 Quick Start
 
