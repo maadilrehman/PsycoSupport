@@ -27,9 +27,11 @@ capture ciphertexts on the wire, apply **frequency analysis (Al-Kindi method)**,
 
 2. **Change file permissions**
 Change file permissions to make them executable
-Like: chmod +x client
+```chmod +x client```
 
 3. **Execute**
-The application is compatible with most of the versions/distros of linux running today. For testing , You can execute them(client and server)in two different VMs or in a single VM.
+The application is compatible with most of the versions/distros of linux running today.
+```./client ```
+For testing , You can execute them(client and server)in two different VMs or in a single VM.
 
 Enjoy learning InfoSec, think like a cryptanalyst, be ethical, and have fun!
